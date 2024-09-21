@@ -1,0 +1,5 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟(毫秒),下载速度(MB/s)
+34.96.128.217,8443,true,TPE,Asia Pacific,Taipei,66,20.42
+3.77.236.216,443,true,FRA,Europe,Frankfurt,170,15.28
+18.196.92.175,2053,true,FRA,Europe,Frankfurt,172,10.98
+52.56.34.181,2096,true,LHR,Europe,London,185,9.33
