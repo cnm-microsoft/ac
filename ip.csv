@@ -1,8 +1,8 @@
-锘縄P鍦板潃,绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,缃戠粶寤惰繜(姣),涓嬭浇閫熷害(MB/s)
-34.96.128.217,8443,true,TPE,Asia Pacific,Taipei,66,20.42
-3.77.236.216,443,true,FRA,Europe,Frankfurt,170,15.28
-18.196.92.175,2053,true,FRA,Europe,Frankfurt,172,10.98
-52.56.34.181,2096,true,LHR,Europe,London,185,9.33
-89.168.112.118	8443	TRUE	FRA	Europe	Frankfurt	1171	8.57
-35.189.113.240	443	TRUE	LHR	Europe	London	1308	8.57
-154.12.48.176	443	TRUE	LAX	North America	Los Angeles	1191	7.85
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟(毫秒),下载速度(MB/s)
+34.96.128.217,8443,TRUE,TPE,Asia Pacific,Taipei,66,20.42
+3.77.236.216,443,TRUE,FRA,Europe,Frankfurt,170,15.28
+18.196.92.175,2053,TRUE,FRA,Europe,Frankfurt,172,10.98
+52.56.34.181,2096,TRUE,LHR,Europe,London,185,9.33
+89.168.112.118,8443,TRUE,FRA,Europe,Frankfurt,1171,8.57
+35.189.113.240,443,TRUE,LHR,Europe,London,1308,8.57
+154.12.48.176,443,TRUE,LAX,North America,Los Angeles,1191,7.85
