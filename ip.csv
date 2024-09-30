@@ -1,18 +1,18 @@
-IP鍦板潃	绔彛	TLS	鏁版嵁涓績	鍦板尯	鍩庡競	缃戠粶寤惰繜(姣)	涓嬭浇閫熷害(MB/s)
-34.96.128.217	8443	TRUE	TPE	Asia Pacific	Taipei	66	20.42
-3.77.236.216	443	TRUE	FRA	Europe	Frankfurt	170	15.28
-18.196.92.175	2053	TRUE	FRA	Europe	Frankfurt	172	10.98
-183.240.196.236	443	TRUE	HKG	Asia Pacific	Hong Kong	66	10.11
-38.207.173.148	443	TRUE	HKG	Asia Pacific	Hong Kong	130	9.66
-132.145.94.80	443	TRUE	ICN	Asia Pacific	Seoul	64	9.53
-52.56.34.181	2096	TRUE	LHR	Europe	London	185	9.33
-208.87.96.44	443	TRUE	HKG	Asia Pacific	Hong Kong	69	9.08
-143.42.66.91	443	TRUE	SIN	Asia Pacific	Singapore	106	8.72
-89.168.112.118	8443	TRUE	FRA	Europe	Frankfurt	1171	8.57
-35.189.113.240	443	TRUE	LHR	Europe	London	1308	8.57
-147.78.244.117	2053	TRUE	NRT	Asia Pacific	Tokyo	96	8.49
-104.245.12.55	443	TRUE	SJC	North America	San Jose	161	8.48
-139.162.1.215	2053	TRUE	SIN	Asia Pacific	Singapore	109	8.29
-152.67.212.141	443	TRUE	ICN	Asia Pacific	Seoul	108	8.24
-154.12.48.176	443	TRUE	LAX	North America	Los Angeles	1191	7.85
-45.39.199.138	443	TRUE	HKG	Asia Pacific	Hong Kong	97	5.71
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟(毫秒),下载速度(MB/s)
+34.96.128.217,8443,TRUE,TPE,Asia Pacific,Taipei,66,20.42
+3.77.236.216,443,TRUE,FRA,Europe,Frankfurt,170,15.28
+18.196.92.175,2053,TRUE,FRA,Europe,Frankfurt,172,10.98
+183.240.196.236,443,TRUE,HKG,Asia Pacific,Hong Kong,66,10.11
+38.207.173.148,443,TRUE,HKG,Asia Pacific,Hong Kong,130,9.66
+132.145.94.80,443,TRUE,ICN,Asia Pacific,Seoul,64,9.53
+52.56.34.181,2096,TRUE,LHR,Europe,London,185,9.33
+208.87.96.44,443,TRUE,HKG,Asia Pacific,Hong Kong,69,9.08
+143.42.66.91,443,TRUE,SIN,Asia Pacific,Singapore,106,8.72
+89.168.112.118,8443,TRUE,FRA,Europe,Frankfurt,1171,8.57
+35.189.113.240,443,TRUE,LHR,Europe,London,1308,8.57
+147.78.244.117,2053,TRUE,NRT,Asia Pacific,Tokyo,96,8.49
+104.245.12.55,443,TRUE,SJC,North America,San Jose,161,8.48
+139.162.1.215,2053,TRUE,SIN,Asia Pacific,Singapore,109,8.29
+152.67.212.141,443,TRUE,ICN,Asia Pacific,Seoul,108,8.24
+154.12.48.176,443,TRUE,LAX,North America,Los Angeles,1191,7.85
+45.39.199.138,443,TRUE,HKG,Asia Pacific,Hong Kong,97,5.71
