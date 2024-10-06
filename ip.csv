@@ -1,11 +1,11 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟(毫秒),下载速度(MB/s)
-183.240.196.236,443,true,HKG,Asia Pacific,Hong Kong,47,25.65
-208.87.96.44,443,true,HKG,Asia Pacific,Hong Kong,65,17.31
-143.42.66.91,443,true,SIN,Asia Pacific,Singapore,104,15.80
-104.245.12.55,443,true,SJC,North America,San Jose,156,15.09
-38.207.173.148,443,true,HKG,Asia Pacific,Hong Kong,69,13.99
-152.67.212.141,443,true,ICN,Asia Pacific,Seoul,105,12.43
-147.78.244.117,2053,true,NRT,Asia Pacific,Tokyo,118,9.84
-172.179.181.196,443,true,SEA,North America,Seattle,171,6.68
-45.39.199.138,443,true,HKG,Asia Pacific,Hong Kong,215,5.51
-38.47.96.250,443,true,KIX,Asia Pacific,Osaka,81,2.79
+183.240.196.236,443,true,HKG,Asia Pacific,Hong Kong,53,33.92
+183.240.196.236,443,true,HKG,Asia Pacific,Hong Kong,53,30.23
+104.245.12.55,443,true,SJC,North America,San Jose,156,14.64
+104.245.12.55,443,true,SJC,North America,San Jose,155,14.32
+143.42.66.91,443,true,SIN,Asia Pacific,Singapore,102,14.16
+154.17.228.150,443,true,LAX,North America,Los Angeles,158,13.93
+154.16.248.118,443,true,NRT,Asia Pacific,Tokyo,71,13.71
+143.42.66.91,443,true,SIN,Asia Pacific,Singapore,121,13.44
+154.9.248.216,443,true,LAX,North America,Los Angeles,171,12.34
+152.67.212.141,443,true,ICN,Asia Pacific,Seoul,165,11.45
