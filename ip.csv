@@ -1,11 +1,5 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟(毫秒),下载速度(MB/s)
-154.9.204.31,443,true,LAX,North America,Los Angeles,174,12.94
-45.139.193.40,443,true,SJC,North America,San Jose,164,11.56
-194.15.46.36,443,true,AMS,Europe,Amsterdam,156,11.32
-38.47.97.196,443,true,KIX,Asia Pacific,Osaka,88,11.16
-45.76.129.222,2053,true,LHR,Europe,London,250,10.74
-45.150.165.13,443,true,SEA,North America,Seattle,188,8.21
-172.179.181.196,443,true,SEA,North America,Seattle,219,6.42
-38.22.233.210,443,true,LAX,North America,Los Angeles,208,6.17
-20.163.71.179,443,true,SJC,North America,San Jose,228,4.60
-154.26.238.84,8443,true,LAX,North America,Los Angeles,215,2.67
+103.44.255.81,443,true,HKG,Asia Pacific,Hong Kong,66,13.84
+103.101.153.32,443,true,LAX,North America,Los Angeles,174,8.40
+103.231.13.135,443,true,HKG,Asia Pacific,Hong Kong,78,7.11
+109.169.76.23,443,true,LHR,Europe,London,182,5.96
