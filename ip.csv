@@ -1,11 +1,5 @@
-锘縄P鍦板潃,绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,缃戠粶寤惰繜(姣),涓嬭浇閫熷害(MB/s)
-154.17.239.89,443,true,LAX,North America,Los Angeles,166,12.56
-152.70.90.168,443,true,ICN,Asia Pacific,Seoul,106,11.87
-152.67.203.34,443,true,ICN,Asia Pacific,Seoul,106,11.54
-141.98.196.223,443,true,NRT,Asia Pacific,Tokyo,105,11.44
-148.113.43.228,8443,true,BOM,Asia Pacific,Mumbai,155,10.74
-154.12.53.70,443,true,LAX,North America,Los Angeles,166,9.91
-154.31.113.72,443,true,NRT,Asia Pacific,Tokyo,118,8.67
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,112,7.90
-144.24.78.162,443,true,ICN,Asia Pacific,Seoul,130,7.71
-144.24.78.162,443,true,ICN,Asia Pacific,Seoul,109,6.93
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟(毫秒),下载速度(MB/s)
+185.217.108.43,2087,TRUE,FRA,Europe,Frankfurt,135,15.28
+43.198.104.113,2087,TRUE,HKG,Asia Pacific,Hong Kong,80,11.24
+154.17.239.89,443,TRUE,LAX,North America,Los Angeles,166,12.56
+154.12.53.70,443,TRUE,LAX,North America,Los Angeles,166,9.91
