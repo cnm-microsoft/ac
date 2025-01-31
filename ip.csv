@@ -1,5 +1,4 @@
-IP地址,端口,TLS,数据中心,地区,城市,网络延迟(毫秒),下载速度(MB/s)
+IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,缃戠粶寤惰繜(姣),涓嬭浇閫熷害(MB/s)
+211.112.85.194,18083,true,ICN,Asia Pacific,Seoul,93,7.15
+27.116.200.118,50003,true,ICN,Asia Pacific,Seoul,76,5.96
 185.217.108.43,2087,TRUE,FRA,Europe,Frankfurt,135,15.28
-43.198.104.113,2087,TRUE,HKG,Asia Pacific,Hong Kong,80,11.24
-154.17.239.89,443,TRUE,LAX,North America,Los Angeles,166,12.56
-154.12.53.70,443,TRUE,LAX,North America,Los Angeles,166,9.91
